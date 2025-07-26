@@ -118,7 +118,6 @@ I'm passionate about data-driven storytelling and solving real business problems
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mashkoorhusain-husaini-728414305/)
 - 📧 Email: www.mashkoorhusain07@gmail.com
-- 🌐 Portfolio: (optional)
 
 ---
 
